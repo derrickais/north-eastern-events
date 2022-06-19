@@ -94,3 +94,4 @@ var signUpFormHandler = function (event){
 formEl.addEventListener('submit', handleFormSubmit)
 loginFormEl.addEventListener("submit", loginFormHandler)
 signUpFormEl.addEventListener("submit", signUpFormHandler)
+
