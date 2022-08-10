@@ -55,4 +55,4 @@ A website that allows users to find events happening in the North Eastern United
 https://radiant-sierra-52768.herokuapp.com/
 
 ## Screenshots
-
+<img width="1504" alt="north-eastern-events" src="https://user-images.githubusercontent.com/100174003/183801850-5c524ef5-8abe-4342-8484-95022311f490.png">
